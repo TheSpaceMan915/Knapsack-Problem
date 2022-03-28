@@ -1,0 +1,30 @@
+Lip-stick
+20
+25
+Lavender Oil
+19
+15
+Pen
+14
+10
+Hair Clip
+28
+16
+Gum
+16
+19
+Tissues
+26
+28
+Phone
+50
+40
+Nail file
+30
+20
+Granola bar
+37
+19
+USB flash drive
+34
+20

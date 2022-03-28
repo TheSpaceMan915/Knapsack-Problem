@@ -1,0 +1,18 @@
+Laptop
+50
+35
+Clothes
+40
+47
+Power Bank
+20
+15
+Wallet
+60
+9
+Camera
+35
+15
+Medicines
+26
+11

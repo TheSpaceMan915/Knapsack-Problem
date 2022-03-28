@@ -1,0 +1,12 @@
+Notebook
+100
+10
+Paper
+30
+2
+Peach
+15
+10
+Books
+30
+50

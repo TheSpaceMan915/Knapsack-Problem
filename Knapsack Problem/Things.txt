@@ -1,0 +1,42 @@
+You've got in your knapsack:
+Granola bar
+19
+ 
+You've got in your knapsack:
+Hair Clip
+16
+ 
+You've got in your knapsack:
+USB flash drive
+20
+ 
+You've got in your knapsack:
+Nail file
+20
+ 
+You've got in your knapsack:
+Pen
+10
+ 
+You've got in your knapsack:
+Lavender Oil
+15
+ 
+There's no room for your:
+Phone
+40
+ 
+There's no room for your:
+Tissues
+28
+ 
+There's no room for your:
+Gum
+19
+ 
+There's no room for your:
+Lip-stick
+25
+ 
+ 
+Total weight is: 100
